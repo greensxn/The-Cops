@@ -1,0 +1,31 @@
+G:\Новая папка\The-Cops\obj\Debug\The_Cops.csproj.AssemblyReference.cache
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.AnswerBox.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.Complication_form.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.CopBox.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.CopChoice_Form.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.CopSay.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.Form1.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.Darken_Form.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.Inventory_Form.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.Loading_Form.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.MissionDescription_Form.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.NewItem_Form.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.Report_Form.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.NotifyBorder.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.NotifyOnMap.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.Properties.Resources.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.SellerBox.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.StorageItemBox.resources
+G:\Новая папка\The-Cops\obj\Debug\ThisIsThePolice_Test.Storage_Form.resources
+G:\Новая папка\The-Cops\obj\Debug\The_Cops.csproj.GenerateResource.cache
+G:\Новая папка\The-Cops\bin\Debug\The Cops.exe.config
+G:\Новая папка\The-Cops\bin\Debug\The Cops.exe.manifest
+G:\Новая папка\The-Cops\bin\Debug\The Cops.application
+G:\Новая папка\The-Cops\bin\Debug\The Cops.exe
+G:\Новая папка\The-Cops\bin\Debug\The Cops.pdb
+G:\Новая папка\The-Cops\obj\Debug\The_Cops.csproj.CoreCompileInputs.cache
+G:\Новая папка\The-Cops\obj\Debug\The Cops.TrustInfo.xml
+G:\Новая папка\The-Cops\obj\Debug\The Cops.exe.manifest
+G:\Новая папка\The-Cops\obj\Debug\The Cops.application
+G:\Новая папка\The-Cops\obj\Debug\The Cops.exe
+G:\Новая папка\The-Cops\obj\Debug\The Cops.pdb
