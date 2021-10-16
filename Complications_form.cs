@@ -88,7 +88,6 @@ namespace ThisIsThePolice_Test {
             }
             else {
                 await HideForm(true);
-                await Task.Delay(1600);
 
                 int[,] CorrectAnswer = DataTransfer.Missions.Where(a => a.Name == e.gameMission.Name).First().Complications.CorrectAnswerOptions;
                 if (e.gameMission.IsTrueCall) {
