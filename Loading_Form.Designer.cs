@@ -32,6 +32,7 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(2)))), ((int)(((byte)(0)))));
             this.pictureBox1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
@@ -44,12 +45,12 @@
             // lbLoading
             // 
             this.lbLoading.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.lbLoading.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lbLoading.Font = new System.Drawing.Font("AlphaSmart 3000", 24F, System.Drawing.FontStyle.Bold);
+            this.lbLoading.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(2)))), ((int)(((byte)(0)))));
+            this.lbLoading.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Bold);
             this.lbLoading.ForeColor = System.Drawing.Color.Gold;
-            this.lbLoading.Location = new System.Drawing.Point(930, 627);
+            this.lbLoading.Location = new System.Drawing.Point(984, 627);
             this.lbLoading.Name = "lbLoading";
-            this.lbLoading.Size = new System.Drawing.Size(291, 35);
+            this.lbLoading.Size = new System.Drawing.Size(237, 35);
             this.lbLoading.TabIndex = 1;
             this.lbLoading.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.lbLoading.Visible = false;
@@ -57,12 +58,12 @@
             // lbLoadingStatus
             // 
             this.lbLoadingStatus.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
-            this.lbLoadingStatus.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lbLoadingStatus.Font = new System.Drawing.Font("AlphaSmart 3000", 13F, System.Drawing.FontStyle.Bold);
+            this.lbLoadingStatus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(2)))), ((int)(((byte)(0)))));
+            this.lbLoadingStatus.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Bold);
             this.lbLoadingStatus.ForeColor = System.Drawing.Color.Gold;
-            this.lbLoadingStatus.Location = new System.Drawing.Point(645, 666);
+            this.lbLoadingStatus.Location = new System.Drawing.Point(957, 666);
             this.lbLoadingStatus.Name = "lbLoadingStatus";
-            this.lbLoadingStatus.Size = new System.Drawing.Size(576, 35);
+            this.lbLoadingStatus.Size = new System.Drawing.Size(264, 35);
             this.lbLoadingStatus.TabIndex = 1;
             this.lbLoadingStatus.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.lbLoadingStatus.Visible = false;

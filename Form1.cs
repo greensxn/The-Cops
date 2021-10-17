@@ -18,8 +18,6 @@ namespace ThisIsThePolice_Test {
         private Storage_Form form_Storage;
         private Darken_Form form_Darken;
 
-
-
         private Animation anim;
 
         public Form1() {
